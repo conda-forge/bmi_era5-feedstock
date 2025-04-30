@@ -16,7 +16,7 @@ Documentation: https://bmi-era5.readthedocs.io/
 
 bmi_era5 package is an implementation of the Basic Model Interface (BMI) for
 the ERA5 dataset. This package uses the CDS API to download the ERA5 dataset
-and wraps the dataset with BMI for data control and query (currently support 3 dimensional ERA5 dataset).
+and wraps the dataset with BMI for data control and query (currently support 3-dimensional ERA5 dataset).
 This package is not implemented for people to use but is the key element to
 convert the ERA5 dataset into a data component (pymt_era5) for the PyMT modeling
 framework developed by Community Surface Dynamics Modeling System (CSDMS).
@@ -40,7 +40,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-bmi_era5-green.svg)](https://anaconda.org/conda-forge/bmi_era5) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/bmi_era5.svg)](https://anaconda.org/conda-forge/bmi_era5) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/bmi_era5.svg)](https://anaconda.org/conda-forge/bmi_era5) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/bmi_era5.svg)](https://anaconda.org/conda-forge/bmi_era5) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-bmi__era5-green.svg)](https://anaconda.org/conda-forge/bmi_era5) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/bmi_era5.svg)](https://anaconda.org/conda-forge/bmi_era5) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/bmi_era5.svg)](https://anaconda.org/conda-forge/bmi_era5) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/bmi_era5.svg)](https://anaconda.org/conda-forge/bmi_era5) |
 
 Installing bmi_era5
 ===================
